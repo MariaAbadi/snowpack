@@ -46,6 +46,7 @@ const DEFAULT_CONFIG: Partial<SnowpackConfig> = {
     port: 8080,
     open: 'default',
     out: 'build',
+    output: 'dashboard',
     fallback: 'index.html',
     hmrDelay: 0,
     hmrPort: 12321,
